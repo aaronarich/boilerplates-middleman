@@ -10,5 +10,5 @@ Dependencies
 Project Init
 ---------
 
-`bundle install`
-`bundle exec middleman server`
+    bundle install
+    bundle exec middleman server
