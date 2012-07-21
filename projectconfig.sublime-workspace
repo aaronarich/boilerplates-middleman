@@ -1,0 +1,1138 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"illus",
+				"illustration_name"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"is_post_type",
+				"is_post_type_archive"
+			],
+			[
+				"site",
+				"site-header-visible"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"get_sub",
+				"get_sub_field"
+			],
+			[
+				"sty",
+				"style_args"
+			],
+			[
+				"to",
+				"toexclude"
+			],
+			[
+				"capab",
+				"capability_rand_array"
+			],
+			[
+				"capabil",
+				"capability_rand_args"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border-",
+				"border-radius-diff"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"conver",
+				"conversation_response_buttons"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"conv",
+				"conversation_response_buttons"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"webki",
+				"webkit-font-smoothing"
+			],
+			[
+				"high",
+				"highlight"
+			],
+			[
+				"curr",
+				"current_page_item"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"photo",
+				"photo_video_index"
+			],
+			[
+				"musi",
+				"music_category_array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".editorconfig",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git ",
+				"Git: Log Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stevenosloan/Sites/stevenosloan_html/index.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/_Archive/SEEDR/code/wordpress/index.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/_Archive/SEEDR/code/wordpress/single.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/_Archive/SEEDR/code/wordpress/scripts/init.js",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/_Archive/SEEDR/code/wordpress/category.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/_Archive/SEEDR/code/wordpress/home.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/_Archive/SEEDR/code/wordpress/css/css.css",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/_Archive/SEEDR/code/wordpress/archive.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/events.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/oyster_bar.php",
+		"/Users/stevenosloan/Sites/the_optimist/Rakefile",
+		"/Users/stevenosloan/Sites/the_optimist/assets/css/scss/_base.scss",
+		"/Users/stevenosloan/Sites/the_optimist/assets/css/scss/_pages.scss",
+		"/Users/stevenosloan/Sites/the_optimist/views/partials/navigation.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/info.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/menus.php",
+		"/Users/stevenosloan/Sites/the_optimist/assets/css/scss/site.scss",
+		"/Users/stevenosloan/Sites/the_optimist/assets/css/scss/_media-queries.scss",
+		"/Users/stevenosloan/Sites/the_optimist/assets/css/scss/_layout.scss",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/home.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/partials/footer.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/photos.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/partials/header.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/partials/home_footer.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/home.php",
+		"/Users/stevenosloan/Dropbox/Work/_Personal/_archive/2011/Joel/code/theme/awards-page.php",
+		"/Users/stevenosloan/Dropbox/Work/_Personal/_archive/2011/Joel/code/theme/mobile-menu.php",
+		"/Users/stevenosloan/Dropbox/Work/_Personal/_archive/2011/Joel/code/theme/header.php",
+		"/Users/stevenosloan/Dropbox/Work/_Personal/_archive/2011/Joel/code/theme/scripts/init.js",
+		"/Users/stevenosloan/Dropbox/Work/_Personal/_archive/2011/Joel/code/theme/css/css.css",
+		"/Users/stevenosloan/Sites/the_optimist/routes.php",
+		"/Users/stevenosloan/Sites/the_optimist/assets/scripts/lightbox.js",
+		"/Users/stevenosloan/Sites/the_optimist/assets/scripts/site.js",
+		"/Users/stevenosloan/Sites/the_optimist/views/partials/reservation_block.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/photos.php",
+		"/Users/stevenosloan/Sites/the_optimist/assets/scripts/lightbox2.plugin.js",
+		"/Users/stevenosloan/Sites/the_optimist/assets/scripts/djax.js",
+		"/Users/stevenosloan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/stevenosloan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/events.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/menu.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/press.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/press.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/info.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/about.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/oyster_bar.php",
+		"/Users/stevenosloan/Sites/the_optimist/assets/css/scss/_mixins.scss",
+		"/Users/stevenosloan/Sites/the_optimist/README.md",
+		"/Users/stevenosloan/Sites/the_optimist/assets/css/scss/_fonts.scss",
+		"/Users/stevenosloan/Downloads/webfontkit-20120623-184431/stylesheet.css",
+		"/Users/stevenosloan/Sites/the_optimist_wordpress/wp-config.php",
+		"/Users/stevenosloan/Sites/the_optimist/functions.php",
+		"/Users/stevenosloan/Sites/the_optimist/index.php",
+		"/Users/stevenosloan/Sites/the_optimist/views/loops/menu_loop.php",
+		"/Users/stevenosloan/Sites/the_optimist/style.css",
+		"/Users/stevenosloan/Sites/the_optimist/views/layouts/404.php",
+		"/Users/stevenosloan/Sites/the_optimist/Gemfile",
+		"/Users/stevenosloan/Sites/the_optimist/.rvmrc",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/Rakefile",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/Gemfile",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/views/partials/header.php",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/assets/scripts/tests.js",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/assets/css/scss/site.scss",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/assets/scripts/site.js",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/README.md",
+		"/Users/stevenosloan/Library/Caches/Cleanup At Startup/Transmit/095884B1-B360-4EA2-807A-CA112FDBF959/.rhosts",
+		"/Users/stevenosloan/Library/Caches/Cleanup At Startup/Transmit/B13414C9-C0E5-4197-9081-2698B44E7798/rc.conf",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/assets/css/site.css",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/config.yaml",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/Gemfile.lock",
+		"/Users/stevenosloan/Sites/Route---View-Wordpress-Theme/.rvmrc",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/css/sass/site.scss",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/loops/temp_home.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/partials/head.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/temp_home.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/scripts/temp.js",
+		"/Users/stevenosloan/Sites/finn-jewelry/style.css",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/scripts/modernizr-build.js",
+		"/Users/stevenosloan/Sites/finn-jewelry/Rakefile",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/scripts/izrs.js",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/css/sass/main.scss",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/jewelry_single.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/scripts/jewelry.js",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/css/main.css",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/partials/jewelry_nav.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/css/sass/_reset.scss",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/css/sass/_fonts.scss",
+		"/Users/stevenosloan/Sites/finn-jewelry/README.md",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/css/sass/_contact-form-7.scss",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/jewelry_group_ajax.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/assets/scripts/sizrizr.js",
+		"/Users/stevenosloan/Sites/Sizrizr/script/sizrizr.js",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/BEMF/code/email_signup.html",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/BEMF/code/index.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/BEMF/code/footer.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/BEMF/code/includes/_home.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/BEMF/code/css/scss/main.scss",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/logins.txt",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/BEMF/code/twitter_module.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/BEMF/code/header.php",
+		"/Users/stevenosloan/Downloads/BEMF email list.docx",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/loops/jewelry.php",
+		"/Users/stevenosloan/Sites/finn-wordpress/wp-config.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/jewelry.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/partials/nav.php",
+		"/Users/stevenosloan/Library/Caches/Cleanup At Startup/Transmit/061D2C6D-7FE8-4DFA-8ED9-3FFAF4C143AA/wp-config.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/functions.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/press.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/loops/press.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/loops/blog.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/routes.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/blog.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/home.php",
+		"/Users/stevenosloan/Sites/finn-jewelry/Gemfile",
+		"/Users/stevenosloan/Sites/finn-jewelry/deploy.yaml",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/layouts/default.php",
+		"/Users/stevenosloan/Library/Caches/Cleanup At Startup/Transmit/722BF5BC-BE74-48E0-AA0A-13E2A152E365/.git-ftp.log",
+		"/Users/stevenosloan/Sites/finn-jewelry/views/loops/jewelry_single.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/PARKED/code/includes/_home.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/PARKED/code/functions.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/PARKED/code/includes/_full.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/PARKED/code/twitter_module.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/PARKED/code/header.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/PARKED/code/css/scss/main.scss",
+		"/Users/stevenosloan/Library/Caches/Cleanup At Startup/Transmit/06293AD8-9254-4407-B5B2-5AE9121A6305/index.php",
+		"/Users/stevenosloan/Library/Caches/Cleanup At Startup/Transmit/C7EB4689-2E6D-452F-A016-76CCF9B357F2/footer.php",
+		"/Users/stevenosloan/Dropbox/Work/Vaguely Scandinavian/MeanRed Productions/PARKED/code/index.php",
+		"/Users/stevenosloan/Library/Caches/Cleanup At Startup/Transmit/1400AFDC-8532-4EFB-B70A-9804ED6AE932/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/stevenosloan/Sites/frequentr/source",
+			"/Users/stevenosloan/Sites/MailChimp-Marketing-Site/dynamic/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<li>-",
+			" ",
+			"$pressPosts",
+			"press_query",
+			"<?",
+			"site.",
+			"'random_illustrations'",
+			"init",
+			"$idx",
+			"footer",
+			"pink",
+			"events",
+			"event",
+			"events",
+			"Events",
+			"events",
+			"Events",
+			"events",
+			"name",
+			"events",
+			" {",
+			".mid",
+			" + 10px",
+			"px",
+			"$responseWidth - 15px",
+			"%",
+			"@",
+			"@FN_responseWidth",
+			"@",
+			";",
+			"responseWidth",
+			"@",
+			".box-sizing",
+			"@type",
+			"@times",
+			"@didot",
+			"@proximabold",
+			"@sansSerif",
+			"@font-small",
+			"@font-mid",
+			"@font-large",
+			"@font-big",
+			"@FN_pink",
+			"@pink",
+			"@FN_lightGrey",
+			"@FN_darkGrey",
+			"@FN_defaultColor",
+			"@black",
+			"\nhome_middlepost_wrap\nhome_middlepost_wrap",
+			"collection",
+			"collections",
+			"query_object",
+			"nav_wrap",
+			":placeholder => \"Gender\"",
+			"90%",
+			"80%",
+			"8",
+			"{",
+			".centered",
+			"80%",
+			"modal",
+			"a href",
+			".section.user",
+			".section",
+			"data-location",
+			"+",
+			"/consumer/logged/messages/message",
+			"rewards",
+			"$red",
+			"feedback/location",
+			"$orange",
+			"feedback",
+			"dash/",
+			"atmosphere",
+			"Atmosphere",
+			"atmosphere",
+			"Atmosphere",
+			"atmosphere",
+			"22",
+			"22px",
+			"44",
+			"#",
+			".message_count",
+			"orange",
+			"red",
+			", :class => @location == \"feedback\"  ?  \"here\" : \"\" ",
+			"link",
+			"{",
+			"9px",
+			"2",
+			"4",
+			".reward",
+			"6px",
+			"#edit",
+			".edit",
+			"section.location",
+			"westside",
+			"response",
+			"$deg ",
+			"-90",
+			".location ATL",
+			"#",
+			"{",
+			"border-box;",
+			"#000",
+			"000",
+			"title0",
+			"#000",
+			" #",
+			"$highlight_color",
+			"primary_color",
+			"highlight_color",
+			"primary_color",
+			"addClass(\"animating\")",
+			"removeClass(\"animating\")",
+			"anchors",
+			"_stickies",
+			"small-btn",
+			"grey-button",
+			"#f",
+			"spacer",
+			"http://meanredproductions.com/wp-content/themes/meanredtheme",
+			"#CC0000",
+			")))",
+			"(is_single()",
+			"(is_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".editorconfig",
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "readme.md",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.465764807259,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"base",
+				"assets/css/scss/_base.scss"
+			],
+			[
+				"sit",
+				"assets/css/scss/site.scss"
+			],
+			[
+				"menu",
+				"views/layouts/menus.php"
+			],
+			[
+				"even",
+				"views/loops/events.php"
+			],
+			[
+				"oy",
+				"views/loops/oyster_bar.php"
+			],
+			[
+				"med",
+				"assets/css/scss/_media-queries.scss"
+			],
+			[
+				"rak",
+				"Rakefile"
+			],
+			[
+				"page",
+				"assets/css/scss/_pages.scss"
+			],
+			[
+				"nav",
+				"views/partials/navigation.php"
+			],
+			[
+				"inf",
+				"views/layouts/info.php"
+			],
+			[
+				"bas",
+				"assets/css/scss/_base.scss"
+			],
+			[
+				"hea",
+				"views/partials/header.php"
+			],
+			[
+				"photo",
+				"views/layouts/photos.php"
+			],
+			[
+				"home",
+				"views/partials/home_footer.php"
+			],
+			[
+				"pag",
+				"assets/css/scss/_pages.scss"
+			],
+			[
+				"lay",
+				"assets/css/scss/_layout.scss"
+			],
+			[
+				"fo",
+				"views/partials/footer.php"
+			],
+			[
+				"he",
+				"views/partials/header.php"
+			],
+			[
+				"ra",
+				"Rakefile"
+			],
+			[
+				"hom",
+				"views/partials/home_footer.php"
+			],
+			[
+				"res",
+				"views/partials/reservation_block.php"
+			],
+			[
+				"pho",
+				"views/loops/photos.php"
+			],
+			[
+				"loop/oy",
+				"views/loops/oyster_bar.php"
+			],
+			[
+				"lightb",
+				"assets/scripts/lightbox2.plugin.js"
+			],
+			[
+				"site",
+				"assets/scripts/site.js"
+			],
+			[
+				"rou",
+				"routes.php"
+			],
+			[
+				"loops/ho",
+				"views/loops/home.php"
+			],
+			[
+				"layout/ho",
+				"views/layouts/home.php"
+			],
+			[
+				"layout/men",
+				"views/layouts/menus.php"
+			],
+			[
+				"layout/ph",
+				"views/layouts/photos.php"
+			],
+			[
+				"p",
+				"assets/css/scss/_pages.scss"
+			],
+			[
+				"pa",
+				"assets/css/scss/_pages.scss"
+			],
+			[
+				"ba",
+				"assets/css/scss/_base.scss"
+			],
+			[
+				"na",
+				"views/partials/navigation.php"
+			],
+			[
+				"la",
+				"assets/css/scss/_layout.scss"
+			],
+			[
+				"pres",
+				"views/loops/press.php"
+			],
+			[
+				"pre",
+				"views/layouts/press.php"
+			],
+			[
+				"php",
+				"views/layouts/photos.php"
+			],
+			[
+				"about",
+				"views/layouts/about.php"
+			],
+			[
+				"mix",
+				"assets/css/scss/_mixins.scss"
+			],
+			[
+				"men",
+				"views/loops/menu.php"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"abou",
+				"views/layouts/about.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"rv",
+				".rvmrc"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"tes",
+				"assets/scripts/tests.js"
+			],
+			[
+				"gem",
+				"Gemfile.lock"
+			],
+			[
+				"mod",
+				"assets/scripts/modernizr-build.js"
+			],
+			[
+				"iz",
+				"assets/scripts/izrs.js"
+			],
+			[
+				"temp",
+				"views/loops/temp_home.php"
+			],
+			[
+				"tem",
+				"views/layouts/temp_home.php"
+			],
+			[
+				"jew",
+				"views/layouts/jewelry_single.php"
+			],
+			[
+				"main",
+				"assets/css/main.css"
+			],
+			[
+				"tw",
+				"twitter_module.php"
+			],
+			[
+				"email",
+				"email_signup.html"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"loops/j",
+				"views/loops/jewelry.php"
+			],
+			[
+				"layout/je",
+				"views/layouts/jewelry.php"
+			],
+			[
+				"ro",
+				"routes.php"
+			],
+			[
+				"def",
+				"views/layouts/default.php"
+			],
+			[
+				"rout",
+				"routes.php"
+			],
+			[
+				"press",
+				"views/loops/press.php"
+			],
+			[
+				"blo",
+				"views/loops/blog.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"signup",
+				"source/consumer/signup-cont.html.haml"
+			],
+			[
+				"location",
+				"source/consumer/logged/feedback/location-fin.html.haml"
+			],
+			[
+				"fin-al",
+				"source/consumer/logged/feedback/location-fin-alt.html.haml"
+			],
+			[
+				"view",
+				"source/css/_mobile_views.scss"
+			],
+			[
+				"consumer/dash",
+				"source/consumer/logged/dash.html.haml"
+			],
+			[
+				"mob",
+				"source/css/mobile.css.scss"
+			],
+			[
+				"messa",
+				"source/business/mobile/message.html.haml"
+			],
+			[
+				"mess",
+				"build/consumer/logged/messages/message/index.html"
+			],
+			[
+				"save",
+				"source/business/dash/settings/saved-response.html.haml"
+			],
+			[
+				"auto",
+				"source/business/dash/settings/auto-response.html.haml"
+			],
+			[
+				"rew",
+				"source/consumer/logged/rewards.html.haml"
+			],
+			[
+				"dash",
+				"source/business/dash/dash.html.haml"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"con",
+				"config.rb"
+			],
+			[
+				"admin",
+				"source/business/dash/settings/admin.html.haml"
+			],
+			[
+				"rewar",
+				"source/business/dash/settings/rewards.html.haml"
+			],
+			[
+				"mobile_v",
+				"source/css/_mobile_views.scss"
+			],
+			[
+				"mobile",
+				"source/css/mobile.css.scss"
+			],
+			[
+				"logg",
+				"source/layouts/logged-mobile.haml"
+			],
+			[
+				"conversation",
+				"source/business/dash/conversation.html.haml"
+			],
+			[
+				"business/dash/in",
+				"source/business/dash/index.html.haml"
+			],
+			[
+				"not",
+				"source/business/dash/settings/notifications.html.haml"
+			],
+			[
+				"adm",
+				"source/business/dash/settings/admin.html.haml"
+			],
+			[
+				"sub",
+				"source/partials/_sub_header.html.haml"
+			],
+			[
+				"conver",
+				"source/dash/conversation.html.haml"
+			],
+			[
+				"log",
+				"source/consumer/login.html.haml"
+			],
+			[
+				"login",
+				"source/consumer/login.html.haml"
+			],
+			[
+				"priv",
+				"source/consumer/logged/settings/privacy.html.haml"
+			],
+			[
+				"setting",
+				"source/consumer/logged/settings.html.haml"
+			],
+			[
+				"mobile_",
+				"source/css/_mobile_views.scss"
+			],
+			[
+				"grid",
+				"source/consumer/logged/rewards/grid.html.haml"
+			],
+			[
+				"fee",
+				"source/consumer/logged/feedback.html.haml"
+			],
+			[
+				"feedback/",
+				"source/consumer/logged/feedback/location-cont.html.haml"
+			],
+			[
+				"message",
+				"source/consumer/logged/messages/index.html.haml"
+			],
+			[
+				"fe",
+				"source/consumer/logged/feedback.html.haml"
+			],
+			[
+				"mo",
+				"source/layouts/mobile.haml"
+			],
+			[
+				"head",
+				"source/partials/_header.html.haml"
+			],
+			[
+				"layo",
+				"source/layouts/layout.haml"
+			],
+			[
+				"/dash/in",
+				"source/dash/index.html.haml"
+			],
+			[
+				"consumer/in",
+				"source/consumer/index.html.haml"
+			],
+			[
+				"mobi",
+				"source/css/mobile.css.scss"
+			],
+			[
+				"_mo",
+				"source/css/_mobile_mixins.scss"
+			],
+			[
+				"/consumer/lo",
+				"source/consumer/login.html.haml"
+			],
+			[
+				"sav",
+				"source/dash/settings/saved-response.html.haml"
+			],
+			[
+				"conv",
+				"source/dash/conversation.html.haml"
+			],
+			[
+				"dash/settings",
+				"source/dash/settings/index.html.haml"
+			],
+			[
+				"/dash/settings/i",
+				"source/dash/settings/index.html.haml"
+			],
+			[
+				"dash/in",
+				"source/dash/index.html.haml"
+			],
+			[
+				"inde",
+				"build/dash/index.html"
+			],
+			[
+				"das",
+				"source/dash/dash.html.haml"
+			],
+			[
+				"index",
+				"source/index.html.haml"
+			],
+			[
+				"layou",
+				"source/layouts/layout.haml"
+			],
+			[
+				"source",
+				"source/index.html.haml"
+			],
+			[
+				"dash/",
+				"source/dash/index.html.haml"
+			],
+			[
+				"static/scroll",
+				"static/scripts/scrolltabsv1.1.js"
+			],
+			[
+				"scroll",
+				"public_html/scripts/scrolltabs.js"
+			],
+			[
+				"color",
+				"dynamic/css/_colors.scss"
+			],
+			[
+				"style",
+				"dynamic/style-guidelines.haml"
+			],
+			[
+				"neu",
+				"dynamic/css/_neue.scss"
+			],
+			[
+				"why",
+				"dynamic/why-mailchimp.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true
+}
