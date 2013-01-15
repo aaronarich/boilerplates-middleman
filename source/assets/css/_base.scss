@@ -1,0 +1,205 @@
+// ------------------------------------ //
+// --------- BASIC VARIABLES ---------- //
+// ------------------------------------ //
+
+$grid-width: 100%;
+$gutter: 10px;
+$max-width: 1024px;
+
+
+// ------------------------------------ //
+// --------------- GRID --------------- //
+// ------------------------------------ //
+
+.line{
+  clear: both;
+  overflow: hidden;
+}
+
+.sizewrap{
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+.imagewrap{
+  position: relative;
+  clear: both;
+}
+
+.grid-unit{
+  @include box-sizing;
+  padding: 0 $gutter;
+  float: left;
+  position: relative;
+  z-index: 500;
+}
+
+.sub-unit{
+  padding: 0;
+}
+
+.float-left{
+  float: left;
+}
+
+.float-right{
+  float: right;
+}
+
+.centered{
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// ------------- By 6ths ------------ //
+.size1of1, .size6of6{
+  width: 100%;
+  @extend .grid-unit;
+}
+.size5of6{
+  width: $grid-width*5/6;
+  @extend .grid-unit;
+}
+.size4of6, {
+  width: $grid-width*4/6;
+  @extend .grid-unit;
+}
+.size3of6, .size1of2{
+  width: $grid-width*3/6;
+  @extend .grid-unit;
+}
+.size2of6{
+  width: $grid-width*2/6;
+  @extend .grid-unit;
+}
+.size1of6{
+  width: $grid-width*1/6;
+  @extend .grid-unit;
+}
+
+// ------------- By 4ths ------------ //
+.size3of4{
+  width: $grid-width*3/4;
+  @extend .grid-unit;
+}
+.size1of4{
+  width: $grid-width*1/4;
+  @extend .grid-unit;
+}
+
+// ------------- By 3rds ------------ //
+.size2of3{
+  @extend .grid-unit;
+  width: 100%*2/3;
+}
+.size1of3{
+  @extend .grid-unit;
+  width: 100%*1/3;
+}
+
+// ---------- Grid Margins ------------ //
+.left1of6{
+  margin-left: $grid-width*1/6;
+}
+.left1column{
+  margin-left: $grid-width*1/6;
+}
+.left1of12{
+  margin-left: $grid-width*1/12;
+}
+.left1of24{
+  margin-left: $grid-width*1/24;
+}
+
+.right1of6{
+  margin-right: $grid-width*1/6;
+}
+.right1of12{
+  margin-right: $grid-width*1/12;
+}
+.right1of24{
+  margin-right: $grid-width*1/24;
+}
+
+
+// ------------------------------------ //
+// -------- MARGIN & PADDING ---------- //
+// ------------------------------------ //
+.margin0{
+  margin: 0 !important;
+}
+.top0{
+  margin-top: 0 !important;
+}
+.topquarter{
+  margin-top: .25em !important;
+}
+.tophalf{
+  margin-top: .5em !important;
+}
+.top1{
+  margin-top: 1em !important;
+}
+.top1half{
+  margin-top: 1.5em !important;
+}
+.top2{
+  margin-top: 2em !important;
+}
+.top2-small{
+  .sizrizr-small &{
+    margin-top: 2em !important;
+  }
+}
+.top2-mid{
+  .sizrizr-mid &{
+    margin-top: 2em !important;
+  }
+}
+.top3quarter{
+  margin-top: 3.15em !important;
+}
+.top4half{
+  margin-top: 4.5em !important;
+}
+.top5{
+  margin-top: 5em !important;
+}
+.bottom0{
+  margin-bottom: 0 !important;
+}
+.bottom1{
+  margin-bottom: 1em !important;
+}
+.bottom2{
+  margin-bottom: 2em !important;
+}
+.bottom4{
+  margin-bottom: 14em !important;
+}
+.bottom4-mid{
+  .sizrizr-mid &{
+    margin-bottom: 4em !important;
+  }
+}
+
+.marginhalf{
+  margin: .5em !important;
+}
+.margin-left-0{
+  margin-left: 0 !important;
+}
+.margin-right-0{
+  margin-right: 0 !important
+}
+
+.padding0{
+  padding: 0 !important;
+}
+.padding-left-0{
+  padding-left: 0 !important;
+}
+.padding-right-0{
+  padding-right: 0 !important;
+}
